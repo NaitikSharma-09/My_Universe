@@ -9,5 +9,6 @@
                                           2.Heat is exchanged with surroundings.
                                           3.Volume and Pressure are Variable
     For an ideal gas, in isothermal process, ΔE=0(Internal Energy), ΔH=0(Enthalpy)
+    
                                           
 
