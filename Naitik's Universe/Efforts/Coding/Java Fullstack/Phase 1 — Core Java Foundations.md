@@ -1,0 +1,19 @@
+- JVM Architecture
+- [ ]  JRE vs JDK
+- [ ]  Installing Java & IDE
+- [ ]  Compilation Process
+- [ ]  Variables & Data Types
+- [ ]  Operators
+- [ ]  Control Flow
+- [ ]  Arrays
+- [ ]  Strings
+- [ ]  Methods
+- [ ]  Object-Oriented Programming
+    - [ ]  Classes
+    - [ ]  Objects
+    - [ ]  Encapsulation
+    - [ ]  Inheritance
+    - [ ]  Polymorphism
+    - [ ]  Abstraction
+- [ ]  Memory Management
+- [ ]  Garbage Collection
